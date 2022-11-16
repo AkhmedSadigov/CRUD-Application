@@ -9,7 +9,6 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using static CRUD_Application.CRUD;
 
 namespace CRUD_Application
 {
